@@ -1,0 +1,1 @@
+A simple rest service using java springboot with cloud vendor as case study/ context
